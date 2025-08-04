@@ -12,4 +12,4 @@ This repo demonstrates a CI/CD pipeline for a Node.js app using:
   - Pushes image to DockerHub
 
 ## DockerHub Image:
-➡️ https://hub.docker.com/repository/docker/YOUR_USERNAME/node-js-sample
+➡️ https://hub.docker.com/repository/docker/sonayadav0709/node-js-sample/general
